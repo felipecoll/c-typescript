@@ -8,7 +8,7 @@
   console.log('customerAge', customerAge)
 
   let productInStock: number
-  //console.log('productInStock', productInStock) // undefined
+  console.log('productInStock', productInStock) // undefined
 
 if(productInStock > 10) {
   console.log('Is greater')
